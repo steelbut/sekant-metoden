@@ -1,0 +1,8 @@
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\bin\Debug\secant metode.exe.config
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\bin\Debug\secant metode.exe
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\bin\Debug\secant metode.pdb
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\obj\Debug\secant metode.csproj.AssemblyReference.cache
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\obj\Debug\secant metode.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\obj\Debug\secant metode.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\obj\Debug\secant metode.exe
+C:\Users\kaspe\Documents\2.G\src\secant metode kode\secant metode\secant metode\obj\Debug\secant metode.pdb
